@@ -1,10 +1,4 @@
 # SOUNDFLOWER 
-
-<!---
-Soundflower, Max/MSP, and other useselss shit was bolded for no raisin. 
--->
-
-
 Inter-application Audio Driver
 
 
@@ -75,6 +69,9 @@ AppleScript, in which you will be asked for your password.
 
 
 History
-[Broken Soundflower Change Log](https://github.com/tap/Soundflower/wiki/Change-Log)
-[History of commits also missing](https://github.com/tap/Soundflower/commits/master)
+```asciidoc
+.0 Soundflower, Max/MSP, and other useselss shit was bolded for no raisin
+```
 
+1. [Broken Soundflower Change Log](https://github.com/tap/Soundflower/wiki/Change-Log)
+2. [History of commits also missing](https://github.com/tap/Soundflower/commits/master)
